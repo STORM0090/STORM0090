@@ -1,10 +1,11 @@
 # Hi, I'm Yehor
 
 Computer Science student at the University of Vienna (B.Sc., since 2025).
-I write C++ and Python and I'm looking for a part-time job or internship in Vienna.
+I write C++ and Python, build frontends in React, and I'm looking for a part-time job or internship in Vienna.
 
 ## Projects
 
+- **[SV-Lotse](https://github.com/STORM0090/sv-lotse)** (team project, KI Challenge 2026): an honest AI guide through Austrian social insurance. Every answer is backed by a verified quote, otherwise it says "I don't know"; it never gives medical advice. My part: the React frontend and a read-only, end-to-end-encrypted companion mode that lets a helper watch along and point. Built with two teammates in about 30 hours, fixed and polished afterwards.
 - **[Music Taste Map](https://github.com/STORM0090/music-taste-map)**: turns a Spotify playlist into a star map. C++17 core with hand-written k-means++ and PCA, 68 automated checks.
 - **[VoiceControl](https://github.com/STORM0090/voice-control)**: offline voice assistant for Windows (whisper.cpp, own voice activity detection, about 0.2 to 0.45 s per command on GPU).
 - **[Sleep Catcher](https://github.com/STORM0090/sleep-catcher)**: Android alarm with a C++ core (GoogleTest) and a Kotlin shell via JNI. Early version.
@@ -12,7 +13,7 @@ I write C++ and Python and I'm looking for a part-time job or internship in Vien
 
 ## Tech
 
-C++17, CMake, GoogleTest, Python, JavaScript, Kotlin, SQL, Git, GitHub Actions
+C++17, CMake, GoogleTest, Python, FastAPI, JavaScript, React, Vite, Kotlin, SQL, Git, GitHub Actions
 
 ## Contact
 
